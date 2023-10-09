@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I’m currently working on [McPolitics](https://www.mcpoliticsthegame.com/)
+
+🌱 I’m currently learning PHP
+
+📫 Discord: oberseebrot
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I'm a :bread:
+
 <!--
 **MolfYT/MolfYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
